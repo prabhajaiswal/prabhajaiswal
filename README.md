@@ -2,13 +2,13 @@
 Hi 👋 My name is Prabha Jaiswal
 ===============================
 
-React Front-end Developer
+Data Analyst
 -------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [prabhajaiswal231@gmail.com](mailto:prabhajaiswal231@gmail.com)
-* 🧠  I'm learning MERN stack
-* 🤝  I'm open to collaborating on javascripts projects
+* ✉️  You can contact me at [jaiswalprabha711@gmail.com](mailto:prabhajaiswal231@gmail.com)
+* 🧠  I'm learning  PowerBI
+* 🤝  I'm open to collaborating on data or analysis realted projects
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/'https://www.linkedin.com/in/prabha-jaiswal-2b72a424a/'   ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prabhjaisw23619) 
